@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://i.redd.it/khnd34f9ajs41.jpg);
+    background-size: cover;
+}
+.container {
+    width: 600px;
+    height: 200px;
+    margin: auto;
+    border: 1px solid #000;
+    border-radius: 20px;
+    margin-top: 130px;
+    background-color: #ebcf61;
+    display: grid;
+    place-content: center;
+}
+button{
+    padding: 10px;
+}

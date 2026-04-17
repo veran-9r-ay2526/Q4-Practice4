@@ -1,8 +1,8 @@
-function gabaGool(){
-    let counter = 10;
-    const maxCars = 25;
-    while (counter < maxCars) {
-        window.alert("Gaba Gool", gabaGool);
-        counter += 1;
+function countzeCar(){
+    let carNumber = 7;
+    const maxCars = 15;
+    while (carNumber < maxCars) {
+        window.alert("There are " + carNumber + " cars in the parking lot.");
+        carNumber += 1;
     }
 }
